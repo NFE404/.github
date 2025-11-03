@@ -50,7 +50,7 @@ We are working on exciting tools and libraries for modern developers. Stay tuned
 
 ## 👀 Visitors
 <div align="center">
-![Axoneo GitHub stats](https://github-readme-stats.vercel.app/api?username=axoneo&show_icons=true&theme=tokyonight)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NFE404&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=NFE404&edge_flat=false)
 </div>
 
 ---
