@@ -50,7 +50,7 @@ We are working on exciting tools and libraries for modern developers. Stay tuned
 
 ## 👀 Visitors
 <div align="center">
-<img src="https://count.getloli.com/get/@nfe404?theme=gelbooru" width="350"/>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nfe404.readme)
 </div>
 
 ---
