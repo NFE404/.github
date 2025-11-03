@@ -28,9 +28,6 @@ We are working on exciting tools and libraries for modern developers. Stay tuned
 
 ### 🔹 Recent Work
 
-[![Snowflake ID Node.js](https://github-readme-stats.vercel.app/api/pin/?username=axoneo&repo=snowflake-id-node&theme=tokyonight)](https://github.com/axoneo/snowflake-id-node)
-
-[![Snowflake ID Rust](https://github-readme-stats.vercel.app/api/pin/?username=axoneo&repo=snowflake-id-rs&theme=tokyonight)](https://github.com/axoneo/snowflake-id-rs)
 
 </td>
 </tr>
@@ -46,15 +43,3 @@ We are working on exciting tools and libraries for modern developers. Stay tuned
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 👀 Visitors
-<div align="center">
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NFE404&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=NFE404&edge_flat=false)
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
