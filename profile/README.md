@@ -50,7 +50,7 @@ We are working on exciting tools and libraries for modern developers. Stay tuned
 
 ## 👀 Visitors
 <div align="center">
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nfe404.readme)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nfe404)
 </div>
 
 ---
