@@ -1,18 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Axoneo&fontAlignY=35&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=NFE404&fontAlignY=35&fontSize=60" />
 
-<h2>🚀 Projects</h2>
+<h2>🚀 About NFE404</h2>
+
+NFE404 is a cutting-edge IT startup focused on building innovative tools and platforms for developers and tech enthusiasts.  
+Inspired by the classic "404 Not Found" error, we aim to create products that surprise, delight, and empower our users.
+
+</div>
+
+---
+
+## 🌟 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌟 Featured Projects
+### 🔹 Featured Projects
 
 **Coming Soon**  
 
-Exciting projects are in development. Stay tuned for updates!
+We are working on exciting tools and libraries for modern developers. Stay tuned!
 
 </td>
 <td width="50%" valign="top">
@@ -27,15 +36,25 @@ Exciting projects are in development. Stay tuned for updates!
 </tr>
 </table>
 
-<h2>👀 Visitors</h2>
-<img src="https://count.getloli.com/get/@axoneo?theme=gelbooru" width="350"/>
+---
 
+## 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 👀 Visitors
+<div align="center">
+<img src="https://count.getloli.com/get/@nfe404?theme=gelbooru" width="350"/>
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
 </div>
